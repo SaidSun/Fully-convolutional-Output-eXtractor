@@ -34,4 +34,14 @@ We use F1-score metric to understand how good our model is. The latest measured 
   <p><em>Figure 3. Metric value comparison</em></p>
 </div>
 
+## Result examples
 
+There is some output examples.
+
+<div align="center">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex1.jpg" width="80%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" wigth="80%">
+</div>
