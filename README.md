@@ -12,6 +12,8 @@ To avoid a fully mixturing unique information from input channels basic decoter 
 
 The architecture of FOX model presented in Figure 1.
 
-![image alt](https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/Arch.jpg)
 
-*Figure 1. FOX architecture*
+<div align="center">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/Arch.jpg" alt="Альтернативный текст" width="50%">
+  <p><em>Figure 1. FOX architecture</em></p>
+</div>
