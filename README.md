@@ -23,14 +23,14 @@ At present we can't use a perfect metric to understand how good FOX model work. 
 Our model current version trained with YOLOv8 model on dataset, which have 30 object classes distributed as show in Figure 2.
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/classes.jpg alt="Альтернативный текст" width="80%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/classes.jpg" alt="Альтернативный текст" width="80%">
   <p><em>Figure 2. Object class distribution</em></p>
 </div>
 
 We use F1-score metric to understand how good our model is. The latest measured metric values are indicated in Figure 3.
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw>
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/metrics.jpg" alt="Альтернативный текст" width="80%">
   <p><em>Figure 3. Metric value comparison</em></p>
 </div>
 
