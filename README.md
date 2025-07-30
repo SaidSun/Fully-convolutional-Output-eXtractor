@@ -44,6 +44,6 @@ There is some output examples.
 </div>
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" alt="Альтернативный текст" width="60%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" alt="Альтернативный текст" width="80%">
   <p><em>Figure 5. Example 2</em></p>
 </div>
