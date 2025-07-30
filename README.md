@@ -40,8 +40,10 @@ There is some output examples.
 
 <div align="center">
   <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex1.jpg" alt="Алтернативный текст" width="80%">
+  <p><em>Figure 4. Example 1</em></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" alt="Альтернативный текст" wigth="60%" height="60%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" alt="Альтернативный текст" wigth="60%">
+  <p><em>Figure 5. Example 2</em></p>
 </div>
