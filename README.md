@@ -43,5 +43,5 @@ There is some output examples.
 </div>
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" wigth="80%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" wigth="60%">
 </div>
