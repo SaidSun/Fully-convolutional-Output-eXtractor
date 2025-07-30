@@ -39,9 +39,9 @@ We use F1-score metric to understand how good our model is. The latest measured 
 There is some output examples.
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex1.jpg" width="80%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex1.jpg" alt="Алтернативный текст" width="80%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" wigth="60%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/ex2.jpg" alt="Альтернативный текст" wigth="60%">
 </div>
