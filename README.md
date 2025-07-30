@@ -1,6 +1,6 @@
-#Fully-Convolutional-Output-Extractor(FOX)
+# Fully-Convolutional-Output-Extractor(FOX)
 
-##Description
+## Description
 
 Fully-Convolutional-Output-Extractor is a model for transform 5 channel images (RGBDE) into new 3 channel tensor with preservation of the structural and contrast features of the original objects. It may be useful for systems with multispectral camera to detecting or classifying objects.
 
@@ -12,8 +12,8 @@ To avoid a fully mixturing unique information from input channels basic decoter 
 
 The architecture of FOX model presented in Figure 1.
 
-
 <div align="center">
-  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/Arch.jpg" alt="Альтернативный текст" width="50%">
+  <img src="https://github.com/SaidSun/Fully-convolutional-Output-eXtractor/raw/main/images/Arch.jpg" alt="Альтернативный текст" width="80%">
   <p><em>Figure 1. FOX architecture</em></p>
 </div>
+
